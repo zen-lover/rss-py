@@ -1,5 +1,5 @@
 smtp.gmail.com
 587
-m.mahdisaeedi99@gmail.com
-********
-cloner00714@gmail.com
+foo@example.com
+*******
+bar@example.com

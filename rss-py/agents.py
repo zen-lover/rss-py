@@ -27,4 +27,3 @@ class EmailAgent:
         # Sendding the message
         self.smtp.send_message(message)
         self.smtp.quit()
-
