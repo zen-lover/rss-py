@@ -1,0 +1,6 @@
+pytest
+coverage
+coveralls
+pytest-cov
+feedparser
+requests
